@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">weight_BMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bmi">BMI(体重指数)</string>  
+    <string name="male">男</string>  
+    <string name="female">女</string>  
+    <string name="calWeight">计算标准体重</string>  
+    <string name="standWeight">标准体重:</string>  
+    <string name="scope">体重的合理范围:</string>  
+    <string name="weight_hint">输入您的体重(kg)</string>  
+    <string name="height_hint">输入您的身高(cm)</string>  
+    <string name="about">关于</string>
+    <string name="author">作者</string>  
+    <string name="aboutContent" formatted="false">  
+          	世界卫生组织计算标准体重的方法:\n\n  
+         	 男性:(身高cm - 80) × 70% = 标准体重\n  
+          	女性:(身高cm - 70) × 60% = 标准体重\n\n\n  
+          	标准体重正负 10% 为正常体重\n  
+          	标准体重正负 10% ~ 20% 为体重过重或过轻\n  
+          	标准体重正负 20% 以上为肥胖或体重不足  
+    </string>  
+    <string name="authorContent" formatted="false">  
+        	作者信息:\n  
+        	作者:lingdu\n  
+        	邮箱:zhang.688.yun@163.com\n 
+       	 	版本:Version_1.0 
+  </string>
+    
+
+</resources>
